@@ -116,3 +116,33 @@ Tracking fitness progress with git movin'
 **Notes:** Desk break workout for programmers
 
 ---
+
+
+## Workout - 2025-07-03 19:49:45
+
+**Duration:** 20 minutes
+**Exercises:**
+- **Triceps curl 2** (Upper Arm)
+  - Sets: 3, Reps: 30s hold
+  - Difficulty: 3/3
+
+- **Inverse Grip Resistance** (Under Arm)
+  - Sets: 2, Reps: 30s hold
+  - Difficulty: 2/3
+
+- **Biceps Curl, Concentration** (Upper Arm)
+  - Sets: 1, Reps: 10-15
+  - Difficulty: 0/3
+
+- **Hand side to side (use stick)** (Under Arm)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+  - Equipment: Stick/Towel
+
+- **Biceps Curl** (Upper Arm)
+  - Sets: 3, Reps: 30s hold
+  - Difficulty: 3/3
+
+**Notes:** Desk break workout for programmers
+
+---
