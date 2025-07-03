@@ -6,6 +6,20 @@ Tracking fitness progress with git movin'
 
 **Duration:** 15 minutes
 **Exercises:**
+- Push-ups: 3 sets Ãƒâ€” 10 reps
+- Squats: 3 sets Ãƒâ€” 15 reps
+- Plank: 30s
+- Jumping Jacks: 2 sets Ãƒâ€” 20 reps
+
+**Notes:** Quick desk break workout
+
+---
+
+
+## Workout - 2025-07-03 17:39:34
+
+**Duration:** 15 minutes
+**Exercises:**
 - Push-ups: 3 sets Ã— 10 reps
 - Squats: 3 sets Ã— 15 reps
 - Plank: 30s
@@ -16,7 +30,7 @@ Tracking fitness progress with git movin'
 ---
 
 
-## Workout - 2025-07-03 17:39:34
+## Workout - 2025-07-03 17:59:51
 
 **Duration:** 15 minutes
 **Exercises:**
@@ -30,7 +44,7 @@ Tracking fitness progress with git movin'
 ---
 
 
-## Workout - 2025-07-03 17:59:51
+## Workout - 2025-07-03 17:59:57
 
 **Duration:** 15 minutes
 **Exercises:**
