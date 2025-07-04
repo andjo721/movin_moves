@@ -146,3 +146,24 @@ Tracking fitness progress with git movin'
 **Notes:** Desk break workout for programmers
 
 ---
+
+
+## Workout - 2025-07-04 14:11:01
+
+**Duration:** 10 minutes
+**Exercises:**
+- **Using hand, push head towards the front, back, sides.** (Neck)
+  - Sets: 3, Reps: 30s hold
+  - Difficulty: 3/3
+
+- **Slowly: Move head forward, then back, as far as possible** (Neck)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+
+- **Look left, right, while providing resistance with hands(one on chin, the other on back/side of head).** (Neck)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+
+**Notes:** Desk break workout for programmers
+
+---
