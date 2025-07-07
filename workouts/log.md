@@ -463,3 +463,24 @@ Testelitest
 testelitest
 
 ---
+
+
+## Workout - 2025-07-07 11:23:43
+
+**Duration:** 6 minutes
+**Exercises:**
+- **Squats** (Legs)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+
+- **Toe raise** (Legs)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+
+- **Tuck jumps, explosive** (Legs)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+
+**Notes:** Add workout for July 7, 2025<br><br>Foo
+
+---
