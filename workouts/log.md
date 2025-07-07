@@ -223,3 +223,25 @@ Tracking fitness progress with git movin'
 **Notes:** Desk break workout for programmers
 
 ---
+
+
+## Workout - 2025-07-07 08:24:31
+
+**Duration:** 8 minutes
+**Exercises:**
+- **Deep Breathing** (Chest)
+  - Sets: 2, Reps: 30s hold
+  - Difficulty: 2/3
+
+- **Pushups, wide** (Chest)
+  - Sets: 1, Reps: 10-15
+  - Difficulty: 0/3
+
+- **Breathing, stretching, utilizing doorway.** (Chest)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+  - Equipment: Stick/Towel
+
+**Notes:** Add workout for July 7, 2025
+
+---
