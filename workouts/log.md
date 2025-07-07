@@ -437,3 +437,29 @@ bar
 Testelitest
 
 ---
+
+
+## Workout - 2025-07-07 11:22:54
+
+**Duration:** 6 minutes
+**Exercises:**
+- **Lean Against Wall With Arms Straight Out** (Back)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 1/3
+  - Equipment: Stick/Towel
+
+- **Rope or towel around door handle, feet against thin base of door: Rowing motion** (Back)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+  - Equipment: Stick/Towel
+
+- **Pull Ups** (Back)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+  - Equipment: Stick/Towel
+
+**Notes:** Add workout for July 7, 2025
+
+testelitest
+
+---
