@@ -484,3 +484,20 @@ testelitest
 **Notes:** Add workout for July 7, 2025<br><br>Foo
 
 ---
+
+
+## Workout - 2025-07-07 12:47:26
+
+**Duration:** 6 minutes
+**Exercises:**
+- **Pushups, wide** (Chest)
+  - Sets: 1, Reps: 10-15
+  - Difficulty: 0/3
+
+- **Deep Breathing** (Chest)
+  - Sets: 2, Reps: 30s hold
+  - Difficulty: 2/3
+
+**Notes:** Foo<br><br>Bar
+
+---
