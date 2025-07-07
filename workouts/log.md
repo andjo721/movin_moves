@@ -418,3 +418,22 @@ foo
 bar
 
 ---
+
+
+## Workout - 2025-07-07 11:16:18
+
+**Duration:** 8 minutes
+**Exercises:**
+- **Using hand, push head towards the front, back, sides.** (Neck)
+  - Sets: 3, Reps: 30s hold
+  - Difficulty: 3/3
+
+- **Slowly: Move head forward, then back, as far as possible** (Neck)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+
+**Notes:** Add workout for July 7, 2025
+
+Testelitest
+
+---
