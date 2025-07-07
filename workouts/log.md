@@ -403,3 +403,18 @@ Tracking fitness progress with git movin'
 **Notes:** dsasdf
 
 ---
+
+
+## Workout - 2025-07-07 11:13:44
+
+**Duration:** 4 minutes
+**Exercises:**
+- **Stretch For Sky** (Shoulder)
+  - Sets: 2, Reps: 30s hold
+  - Difficulty: 2/3
+
+**Notes:** Add workout for July 7, 2025
+foo
+bar
+
+---
