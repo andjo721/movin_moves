@@ -304,3 +304,24 @@ Tracking fitness progress with git movin'
 **Notes:** foo
 
 ---
+
+
+## Workout - 2025-07-07 08:29:11
+
+**Duration:** 8 minutes
+**Exercises:**
+- **Pushups, wide** (Chest)
+  - Sets: 1, Reps: 10-15
+  - Difficulty: 0/3
+
+- **Deep Breathing** (Chest)
+  - Sets: 2, Reps: 30s hold
+  - Difficulty: 2/3
+
+- **Breathing, stretching, utilizing doorway.** (Chest)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+  - Equipment: Stick/Towel
+
+
+---
