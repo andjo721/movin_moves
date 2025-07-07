@@ -274,3 +274,33 @@ Tracking fitness progress with git movin'
 **Notes:** Add workout for July 7, 2025
 
 ---
+
+
+## Workout - 2025-07-07 08:26:47
+
+**Duration:** 10 minutes
+**Exercises:**
+- **Breathing, stretching, utilizing doorway.** (Chest)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+  - Equipment: Stick/Towel
+
+- **Tuck jumps, explosive** (Legs)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+
+- **Contract buttocks, one at a time** (Legs)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+
+- **Toe raise** (Legs)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+
+- **Pushups, wide** (Chest)
+  - Sets: 1, Reps: 10-15
+  - Difficulty: 0/3
+
+**Notes:** foo
+
+---
