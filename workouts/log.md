@@ -167,3 +167,29 @@ Tracking fitness progress with git movin'
 **Notes:** Desk break workout for programmers
 
 ---
+
+
+## Workout - 2025-07-07 07:12:10
+
+**Duration:** 12 minutes
+**Exercises:**
+- **Hand side to side (use stick)** (Under Arm)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+  - Equipment: Stick/Towel
+
+- **Hand up down** (Under Arm)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+
+- **Inverse Grip Resistance** (Under Arm)
+  - Sets: 2, Reps: 30s hold
+  - Difficulty: 2/3
+
+- **Make Hard Fist(w & wo other hand inside)** (Under Arm)
+  - Sets: 2, Reps: 30s hold
+  - Difficulty: 2/3
+
+**Notes:** Desk break workout for programmers
+
+---
