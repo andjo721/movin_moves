@@ -501,3 +501,40 @@ testelitest
 **Notes:** Foo<br><br>Bar
 
 ---
+
+
+## Workout - 2025-07-07 21:14:00
+
+**Duration:** 26 minutes
+**Exercises:**
+- **Contract buttocks, one at a time** (Legs)
+  - Sets: 1, Reps: 20
+  - Difficulty: 0/3
+
+- **Deep Breathing** (Chest)
+  - Sets: 2, Reps: 20
+  - Difficulty: 2/3
+
+- **Breathing, stretching, utilizing doorway.** (Chest)
+  - Sets: 1, Reps: 20
+  - Difficulty: 0/3
+  - Equipment: Stick/Towel
+
+- **Triceps curl 1** (Upper Arm)
+  - Sets: 3, Reps: 5
+  - Difficulty: 3/3
+
+- **Inverse Grip Resistance** (Under Arm)
+  - Sets: 2, Reps: 5
+  - Difficulty: 2/3
+
+- **Biceps Curl, Concentration** (Upper Arm)
+  - Sets: 1, Reps: 5
+  - Difficulty: 0/3
+
+- **Triceps curl 2** (Upper Arm)
+  - Sets: 3, Reps: 5
+  - Difficulty: 3/3
+
+
+---
