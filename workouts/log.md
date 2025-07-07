@@ -245,3 +245,32 @@ Tracking fitness progress with git movin'
 **Notes:** Add workout for July 7, 2025
 
 ---
+
+
+## Workout - 2025-07-07 08:25:29
+
+**Duration:** 12 minutes
+**Exercises:**
+- **Deep Breathing** (Chest)
+  - Sets: 2, Reps: 30s hold
+  - Difficulty: 2/3
+
+- **Leg extensions : Cross legs close to feet, pit legs against each other. ISO: 0, 45, 90 degrees at knees.** (Legs)
+  - Sets: 1, Reps: 10-15
+  - Difficulty: 0/3
+
+- **Pushups, wide** (Chest)
+  - Sets: 1, Reps: 10-15
+  - Difficulty: 0/3
+
+- **Tuck jumps, explosive** (Legs)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+
+- **Contract buttocks, one at a time** (Legs)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+
+**Notes:** Add workout for July 7, 2025
+
+---
