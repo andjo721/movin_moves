@@ -345,3 +345,37 @@ Tracking fitness progress with git movin'
 
 
 ---
+
+
+## Workout - 2025-07-07 11:06:30
+
+**Duration:** 20 minutes
+**Exercises:**
+- **Hand to shoulder** (Shoulder)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+
+- **Stretch For Sky** (Shoulder)
+  - Sets: 2, Reps: 30s hold
+  - Difficulty: 2/3
+
+- **Arm straight out** (Shoulder)
+  - Sets: 3, Reps: 30s hold
+  - Difficulty: 3/3
+
+- **Deep Breathing** (Chest)
+  - Sets: 2, Reps: 30s hold
+  - Difficulty: 2/3
+
+- **Pushups, wide** (Chest)
+  - Sets: 1, Reps: 10-15
+  - Difficulty: 0/3
+
+- **Breathing, stretching, utilizing doorway.** (Chest)
+  - Sets: 1, Reps: 30s hold
+  - Difficulty: 0/3
+  - Equipment: Stick/Towel
+
+**Notes:** Test workout
+
+---
