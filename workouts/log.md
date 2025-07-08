@@ -538,3 +538,21 @@ testelitest
 
 
 ---
+
+
+## Workout - 2025-07-08 09:16:45
+
+**Duration:** 10 minutes
+**Exercises:**
+- **Inverse Grip Resistance** (Under Arm)
+  - Sets: 3-4, Reps: 12
+
+- **Hand up down** (Under Arm)
+  - Sets: 3-4, Reps: 12
+
+- **Make Hard Fist(w & wo other hand inside)** (Under Arm)
+  - Sets: 3-4, Reps: 12
+
+**Notes:** asdf
+
+---
