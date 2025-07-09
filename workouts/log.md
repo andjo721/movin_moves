@@ -556,3 +556,21 @@ testelitest
 **Notes:** asdf
 
 ---
+
+
+## Workout - 2025-07-09 07:43:43
+
+**Duration:** 10 minutes
+**Exercises:**
+- **Hand side to side (use stick)** (Under Arm)
+  - Sets: 3, Reps: 5
+  - Equipment: Stick/Towel
+
+- **Windshield Wiper** (Shoulder)
+  - Sets: 3, Reps: 5
+
+- **Toe raise** (Legs)
+  - Sets: 3, Reps: 5
+
+
+---
